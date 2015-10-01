@@ -5,3 +5,4 @@ sona = input("Sisesta sõna: ")
 print(sõna)
 
 nr = input("Sisesta nr: ")
+nr2 = input("Sisesta teine nr: ")
